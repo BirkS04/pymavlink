@@ -2349,6 +2349,7 @@ mode_mapping_acm = {
     27 : 'AUTO_RTL',
     28 : 'TURTLE',
     29 : 'RATE_ACRO',
+    31 : 'ADAPTIVE',
 }
 
 mode_mapping_rover = {
